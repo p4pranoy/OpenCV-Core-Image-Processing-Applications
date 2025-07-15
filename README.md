@@ -6,29 +6,34 @@ This notebook serves as a practical guide to fundamental image processing operat
 
 Key Highlights
 -----------------------------------------
-. Image Loading: Learn to load images into your Python environment using OpenCV.
+* Image Loading: Learn to load images into your Python environment using OpenCV.
 
-Grayscale Conversion: Understand how to convert color images to grayscale.
+* Grayscale Conversion: Understand how to convert color images to grayscale.
 
-Simple Thresholding: Apply basic thresholding to images for binary segmentation.
+* Simple Thresholding: Apply basic thresholding to images for binary segmentation.
 
-Image Display: Display original and processed images for visual comparison.
+* Image Display: Display original and processed images for visual comparison.
 
 Getting Started
-Prerequisites
+---------------------------------------
+* Prerequisites
+  
 To run this notebook, you will need to have Python and the opencv-python library installed. If you are using Google Colab, cv2_imshow is used for displaying images.
 
-You can install OpenCV via pip:
+  You can install OpenCV via pip:
 
-Bash
+  Bash
 
-pip install opencv-python
+  pip install opencv-python
+  
 How to Run
-Place an image file (e.g., dog.jpg as suggested by the notebook content) in the same directory as the notebook, or update the image path within the notebook.
+---------------
+1. Place an image file (e.g., dog.jpg as suggested by the notebook content) in the same directory as the notebook, or update the image path within the notebook.
 
-Open the notebook using Jupyter:
+2. Open the notebook using Jupyter:
 
-Bash
+   Bash
 
-jupyter notebook "OpenCV Core Image Processing Applications.ipynb"
-Execute the cells sequentially to see the image processing techniques in action.
+   jupyter notebook "OpenCV Core Image Processing Applications.ipynb"
+  
+3. Execute the cells sequentially to see the image processing techniques in action.
