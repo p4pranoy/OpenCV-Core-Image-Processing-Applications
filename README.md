@@ -1,11 +1,12 @@
 # This repository contains a Jupyter Notebook (OpenCV Core Image Processing Applications.ipynb) demonstrating core image processing techniques using OpenCV in Python.
 
 Project Overview
--
+-------------------------------------
 This notebook serves as a practical guide to fundamental image processing operations, focusing on techniques like simple thresholding. It illustrates how to load images, convert them to grayscale, apply thresholding to segment regions, and visualize the processed outputs.
 
 Key Highlights
-Image Loading: Learn to load images into your Python environment using OpenCV.
+-----------------------------------------
+. Image Loading: Learn to load images into your Python environment using OpenCV.
 
 Grayscale Conversion: Understand how to convert color images to grayscale.
 
